@@ -1,1 +1,1 @@
-#Jenkinsfile for AWS ECR deployment
+# Jenkinsfile for AWS ECR deployment
